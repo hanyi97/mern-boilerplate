@@ -28,6 +28,7 @@ npm run dev
 ```
 
 ## Frontend Folder Structure
+api - api function calls
 
 assets - store all images or files needed for project
 
@@ -35,9 +36,9 @@ components - create a folder for each component inside this folder
 
 constants - store constant variables to be used throughout the app
 
+utils - useful code to use throughout the application
 
 ## Backend Folder Structure
-
 config - database configurations and connections
 
 constants - store constant variables to be used througout the app  
