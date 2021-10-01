@@ -1,4 +1,4 @@
-# MERN Boilerplate
+# MERN Stack Boilerplate
 Simple boilerplate for MERN stack application.
 
 # Tech Stack (MERN)
