@@ -1,9 +1,9 @@
-# MERN Boilerplate
+# MERN Stack Boilerplate
 Simple boilerplate for MERN stack application.
 
 # Tech Stack (MERN)
-**Frontend:** ReactJS  
-**Backend:** NodeJS, ExpressJS  
+**Client:** ReactJS  
+**Server:** NodeJS, ExpressJS  
 **Database:** MongoDB  
 
 ## Project Setup
